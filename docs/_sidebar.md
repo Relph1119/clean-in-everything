@@ -1,5 +1,13 @@
 * [目录](README.md)
-    * 《代码整洁之道》
+    * 《代码整洁之道》（待整理）
+    * 《代码整洁之道：程序员的职业素养》（待整理）
     * 《架构整洁之道》
+       * [第1章 说明](clean_architecture/ch01.md)
+       * [第2章 章节笔记](clean_architecture/ch02.md)
+       * [第3章 架构设计的总结](clean_architecture/ch03.md)
+       * [第4章 个人总结](clean_architecture/ch04.md)
     * 《敏捷整洁之道：回归本源》
-    * 《代码整洁之道：程序员的职业素养》
+       * [第1章 重点笔记](clean_agile/ch01.md)
+       * [第2章 本书特点](clean_agile/ch02.md)
+       * [第3章 本书缺点](clean_agile/ch03.md)
+    
